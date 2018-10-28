@@ -1,0 +1,27 @@
+{
+  "name": "rsschool-codejam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sumOfOther.js",
+  "dependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sokol147/rsschool-codejam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sokol147/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/sokol147/rsschool-codejam#readme"
+}

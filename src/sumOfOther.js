@@ -1,4 +1,4 @@
-function sumOfOther(array){
+module.exports = function sumOfOther(array){
   const arr = array.slice();
 
   let sum = arr.reduce(function(sum, item){
